@@ -1,6 +1,6 @@
 # Sample app for using TypeScript with Visual Studio Code and ArcGIS API for JavaScript
 
-##Usage
+## Usage
 
 Clone the repo and run `npm install`.
 
