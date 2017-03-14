@@ -6,11 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["arcgis", "esri"],
-  "author": "rrubalcava@esri.com",
-  "license": "MIT",
-  "dependencies": {
-    "@types/arcgis-js-api": "^3.18.33",
-    "dojo-typings": "^1.11.5"
-  }
+  "keywords": ["arcgis", "esri", "typescript"],
+  "author": "kataha (forked from rrubalcava@esri.com)",
+  "license": "MIT"
 }

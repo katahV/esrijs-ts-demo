@@ -5,8 +5,7 @@
     "module": "amd",
     "sourceMap": true
   },
-  "files": [
-    "./src/main.ts",
-    "./typings.d.ts"
+  "exclude": [
+   "/node_modules" 
   ]
 }
