@@ -4,9 +4,22 @@
   "description": "Sample app for using ArcGIS JS API with TypeScript",
   "main": "src/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w",
+    "lint": "tslint './src/*.ts'"
   },
-  "keywords": ["arcgis", "esri", "typescript"],
+  "keywords": [
+    "arcgis",
+    "esri",
+    "typescript"
+  ],
   "author": "katah (forked from rrubalcava@esri.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^4.2.0"
+  },
+  "dependencies": {
+    "@types/arcgis-js-api": "^3.19",
+    "typescript": "^2.2.1"
+  }
 }
