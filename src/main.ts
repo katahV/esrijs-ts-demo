@@ -12,5 +12,3 @@ const map = new Map("map", {
 const featureLayer = new FeatureLayer(URL);
 
 map.addLayer(featureLayer);
-
-var maxScale = map.getMaxScale();
