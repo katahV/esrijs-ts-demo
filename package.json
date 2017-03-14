@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["arcgis", "esri", "typescript"],
-  "author": "kataha (forked from rrubalcava@esri.com)",
+  "author": "katah (forked from rrubalcava@esri.com)",
   "license": "MIT"
 }
