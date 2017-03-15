@@ -12,7 +12,8 @@
   "compilerOptions": {
     "module": "amd",
     "noImplicitAny": true,
-    "outDir": "built",
+    "outDir": "src",
+    "rootDir": "src",
     "removeComments": false,
     "sourceMap": true,
     "jsx": "react",

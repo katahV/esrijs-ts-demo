@@ -1,5 +1,5 @@
 {
-  "name": "newapp",
+  "name": "myapp",
   "version": "1.0.0",
   "description": "Sample app for using ArcGIS JS API with TypeScript",
   "main": "src/main.js",
